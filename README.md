@@ -36,7 +36,6 @@ This project implements a content-based image retrieval system that uses **SIFT 
 | Clustering & Similarity | Scikit-learn (`KMeans`, `cosine_similarity`) |
 | Array Ops & Math        | NumPy (`numpy`)                              |
 | Visualization           | Matplotlib (`pyplot`)                        |
-| Progress Tracking       | TQDM                                         |
 | File Management         | OS (`os`)                                    |
 
 ---
